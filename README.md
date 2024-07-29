@@ -6,6 +6,8 @@
 O desafio consiste em modelar um iPhone baseado no vídeo de lançamento de 2007 [Lançamento iPhone 2007](https://www.youtube.com/watch?v=9ou608QQRq8).  
 O diagrama UML foi criado no software [DIA Diagram Editor](http://dia-installer.de/index.html.en).
 
+[UML](https://github.com/michel-a/dio-uml-iphone/blob/main/uml-iphone.svg)
+
 #### Funções
 **Reprodutor Musical**  
 	`tocarMusica(String nomeDaMusica)`, `selecionarMusica(String nomeDaMusica)`, `pausarMusica(String nomeDaMusica)`  
